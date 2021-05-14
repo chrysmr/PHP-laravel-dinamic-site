@@ -1,2 +1,2 @@
 # PHP-laravel-dinamic-site
-PHP Laravel Dinamic Site
+A Simple Dinamic Site developed with PHP Laravel Framework
